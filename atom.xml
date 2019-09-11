@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jqee.github.io/"/>
-  <updated>2019-09-11T07:47:06.566Z</updated>
+  <updated>2019-09-11T07:54:17.983Z</updated>
   <id>https://jqee.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://jqee.github.io/2019/09/11/centsos7-an-zhuang-yapi-fu-wu/"/>
     <id>https://jqee.github.io/2019/09/11/centsos7-an-zhuang-yapi-fu-wu/</id>
     <published>2019-09-11T07:46:04.000Z</published>
-    <updated>2019-09-11T07:47:06.566Z</updated>
+    <updated>2019-09-11T07:54:17.983Z</updated>
     
     <summary type="html">
     
@@ -29,11 +29,7 @@
       
         
         
-          &lt;script&gt;
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-          .forEach(el =&gt; {
-            if (!el.dataset.src) { return; }
-       
+          &lt;h3 id=&quot;1-安装nodejs&quot;&gt;&lt;a href=&quot;#1-安装nodejs&quot; class=&quot;headerlink&quot; title=&quot;1.安装nodejs&quot;&gt;&lt;/a&gt;1.安装nodejs&lt;/h3&gt;&lt;p&gt;1.1 安装 nvm,官网: &lt;a
         
       
     
