@@ -4,7 +4,7 @@
   
     
     <entry>
-      <title>CentsOs7安装Yapi服务</title>
+      <title>CentOS 7 安装Yapi服务</title>
       <link href="/2019/09/11/centsos7-an-zhuang-yapi-fu-wu/"/>
       <url>/2019/09/11/centsos7-an-zhuang-yapi-fu-wu/</url>
       
@@ -12,18 +12,11 @@
       
       
       
-    </entry>
-    
-    
-    
-    <entry>
-      <title>article title</title>
-      <link href="/2019/09/11/article-title/"/>
-      <url>/2019/09/11/article-title/</url>
-      
-        <content type="html"><![CDATA[<script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
-      
-      
+        <tags>
+            
+            <tag> centos yapi </tag>
+            
+        </tags>
       
     </entry>
     

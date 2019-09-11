@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jqee.github.io/"/>
-  <updated>2019-09-11T07:54:17.983Z</updated>
+  <updated>2019-09-11T07:57:41.255Z</updated>
   <id>https://jqee.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>CentsOs7安装Yapi服务</title>
+    <title>CentOS 7 安装Yapi服务</title>
     <link href="https://jqee.github.io/2019/09/11/centsos7-an-zhuang-yapi-fu-wu/"/>
     <id>https://jqee.github.io/2019/09/11/centsos7-an-zhuang-yapi-fu-wu/</id>
     <published>2019-09-11T07:46:04.000Z</published>
-    <updated>2019-09-11T07:54:17.983Z</updated>
+    <updated>2019-09-11T07:57:41.255Z</updated>
     
     <summary type="html">
     
@@ -37,32 +37,7 @@
     
     
     
-  </entry>
-  
-  <entry>
-    <title>article title</title>
-    <link href="https://jqee.github.io/2019/09/11/article-title/"/>
-    <id>https://jqee.github.io/2019/09/11/article-title/</id>
-    <published>2019-09-11T01:48:57.000Z</published>
-    <updated>2019-09-11T01:48:57.584Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;script&gt;
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-          .forEach(el =&gt; {
-            if (!el.dataset.src) { return; }
-       
-        
-      
-    
-    </summary>
-    
-    
+      <category term="centos yapi" scheme="https://jqee.github.io/tags/centos-yapi/"/>
     
   </entry>
   
