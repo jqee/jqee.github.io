@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hexo</title>
   
-  <subtitle>分享知识,分享快乐!</subtitle>
+  <subtitle>一个乐于分享,好玩的世界!</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jqee.github.io/"/>
